@@ -1,8 +1,3 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Porico94/fullstack-javascript-project-138/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Porico94/fullstack-javascript-project-138/actions)
-
-[![Node.js CI](https://github.com/Porico94/fullstack-javascript-project-138/actions/workflows/ci.yml/badge.svg)](https://github.com/Porico94/fullstack-javascript-project-138/actions)
-
 # 🌐 Page Loader
 ### Herramienta CLI para descargar páginas web completas con todos sus recursos locales
 
@@ -193,5 +188,9 @@ page-loader/
 ## 👤 Autor
 
 **Pool Rimari** — Desarrollador Full-stack JavaScript
-
 [![GitHub](https://img.shields.io/badge/GitHub-Porico94-181717?style=flat&logo=github)](https://github.com/Porico94)
+
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Porico94/fullstack-javascript-project-138/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Porico94/fullstack-javascript-project-138/actions)
+
+[![Node.js CI](https://github.com/Porico94/fullstack-javascript-project-138/actions/workflows/ci.yml/badge.svg)](https://github.com/Porico94/fullstack-javascript-project-138/actions)
