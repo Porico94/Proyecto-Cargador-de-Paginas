@@ -188,6 +188,7 @@ page-loader/
 ## 👤 Autor
 
 **Pool Rimari** — Desarrollador Full-stack JavaScript
+
 [![GitHub](https://img.shields.io/badge/GitHub-Porico94-181717?style=flat&logo=github)](https://github.com/Porico94)
 
 ### Hexlet tests and linter status:
